@@ -9,7 +9,8 @@ Desktop.ini
 $RECYCLE.BIN/
 
 dist/
-
+persistence.xml
+glassfish-resources.xml
 # Windows Installer files
 *.cab
 *.msi

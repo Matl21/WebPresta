@@ -3,7 +3,7 @@
     <context-param>
         
         <param-name>primefaces.THEME</param-name>
-	<param-value>start</param-value>
+	<param-value>bootstrap</param-value>
     </context-param>
     <!--<param-name>javax.faces.PROJECT_STAGE</param-name>
         <param-value>Development</param-value>-->
